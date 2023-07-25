@@ -3,7 +3,7 @@ public class Order {
 	public int OrderNum;
 	public int Price;
 	public int name;
-
+	public int a;
 	String TransactionDate;
 	public int CustomID;
 	public int commodityID;
