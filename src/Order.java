@@ -2,6 +2,7 @@ public class Order {
 	public int orders;
 	public int OrderNum;
 	public int Price;
+	public int name;
 
 	String TransactionDate;
 	public int CustomID;
